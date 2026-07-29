@@ -1,0 +1,62 @@
+{
+  "counts": {
+    "condition_sets": 411,
+    "descriptions": 1834,
+    "full_expressions": 1574,
+    "generic_head_descriptions": 329,
+    "headless_descriptions": 329,
+    "pairs": 2256,
+    "scenes": 30
+  },
+  "models": {
+    "3d_vista": "3D-VisTA",
+    "3drs": "3DRS",
+    "pq3d": "PQ3D",
+    "ross3d": "Ross3D",
+    "video_3d_llm": "Video-3D LLM"
+  },
+  "paper_title": "Found but Not Held: Answer-Object Retention in 3D Referring Expressions",
+  "prompt_counts": {
+    "generic_head": 329,
+    "headless": 329,
+    "independent_natural": 1834,
+    "main_natural": 1834
+  },
+  "prompt_sets": {
+    "generic_head": "Canonical generic-head realization for the category-omission wording control.",
+    "headless": "Canonical headless realization for the category-omission wording control.",
+    "independent_natural": "Independently generated natural realization used for surface-form robustness.",
+    "main_natural": "Primary natural realization used for main results."
+  },
+  "ranking_counts": {
+    "generic_head": {
+      "3d_vista": 329,
+      "3drs": 329,
+      "pq3d": 329,
+      "ross3d": 329,
+      "video_3d_llm": 329
+    },
+    "headless": {
+      "3d_vista": 329,
+      "3drs": 329,
+      "pq3d": 329,
+      "ross3d": 329,
+      "video_3d_llm": 329
+    },
+    "independent_natural": {
+      "3d_vista": 1834,
+      "3drs": 1834,
+      "pq3d": 1834,
+      "ross3d": 1834,
+      "video_3d_llm": 1834
+    },
+    "main_natural": {
+      "3d_vista": 1834,
+      "3drs": 1834,
+      "pq3d": 1834,
+      "ross3d": 1834,
+      "video_3d_llm": 1834
+    }
+  },
+  "schema_version": "answer_object_retention_public_v1"
+}
