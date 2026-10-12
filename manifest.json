@@ -15,7 +15,7 @@
     "ross3d": "Ross3D",
     "video_3d_llm": "Video-3D LLM"
   },
-  "paper_title": "Found but Not Held: Answer-Object Retention in 3D Referring Expressions",
+  "paper_title": "Beyond Endpoint Accuracy: Answer-Object Retention Under Broader 3D Referring Expressions",
   "prompt_counts": {
     "generic_head": 329,
     "headless": 329,

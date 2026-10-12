@@ -2,7 +2,7 @@
 
 Data, prompts, normalized model rankings, and evaluation code for:
 
-> **Found but Not Held: Answer-Object Retention in 3D Referring Expressions**
+> **Beyond Endpoint Accuracy: Answer-Object Retention Under Broader 3D Referring Expressions**
 
 The release supports the fixed-inventory analysis reported in the paper. It
 contains the final family-unique evaluation core: 30 ScanNet v2 validation
